@@ -1,6 +1,6 @@
 baseURL: 'http://example.org'
-title: ThinkBiggish
-paginate: 5
+title: Think Biggish
+paginate: 7
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -35,10 +35,8 @@ languages:
                 - name: Tags
                   url: tags/
                   weight: 10
-                - name: WiKi
-                  url: https://github.com/adityatelange/hugo-PaperMod/wiki/
-                - name: Discord
-                  url: https://discord.gg/ahpmTvhVmp
+                - name: Github
+                  url: https://github.com/rajkorde
 
 outputs:
     home:
@@ -49,7 +47,7 @@ outputs:
 params:
     env: production # to enable google analytics, opengraph, twitter-cards and schema.
     description: "Theme PaperMod - https://github.com/adityatelange/hugo-PaperMod"
-    author: Theme PaperMod
+    author: Rajesh Korde
     # author: ["Me", "You"] # multiple authors
 
     defaultTheme: auto
@@ -66,11 +64,15 @@ params:
     # comments: false
     images: ["papermod-cover.png"]
 
+    # assets:
+    #   favicon: "https://res.cloudinary.com/rajkorde/image/upload/v1506727680/favicon192_qt0vfp.png"
+
+
     profileMode:
         enabled: false
-        title: PaperMod
+        title: Think Biggish
         imageUrl: "#"
-        imageTitle: my image
+        imageTitle: Hello!
         # imageWidth: 120
         # imageHeight: 120
         buttons:
@@ -85,9 +87,9 @@ params:
 
     socialIcons:
         - name: github
-          url: "https://github.com/adityatelange/hugo-PaperMod"
-        - name: KoFi
-          url: "https://ko-fi.com/adityatelange"
+          url: "https://github.com/rajkorde"
+        - name: linkedin
+          url: "https://www.linkedin.com/in/rkorde/"
         - name: Rss
           url: "index.xml"
 
