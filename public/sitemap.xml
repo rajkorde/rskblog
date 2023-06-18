@@ -2,10 +2,84 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://example.org/posts/first/</loc>
+    <lastmod>2023-06-11T12:31:58-07:00</lastmod>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2023-06-11T12:31:58-07:00</lastmod>
   </url><url>
     <loc>http://example.org/</loc>
+    <lastmod>2023-06-11T12:31:58-07:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/analysis/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/politics/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/r/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/trump-s-twitter-ratio-this-year-and-his-most-unpopular-tweets/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/twitter/</loc>
+    <lastmod>2017-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/categories/coding/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/old-blog/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/switching-from-base-r-to-tidyverse/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/tidyverse/</loc>
+    <lastmod>2017-10-05T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/divided-states-of-america/</loc>
+    <lastmod>2016-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/sentiment-analysis/</loc>
+    <lastmod>2016-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/trump-s-emotional-graph-this-year/</loc>
+    <lastmod>2016-08-17T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/beer-vs-wine-consumption-in-the-us/</loc>
+    <lastmod>2015-02-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/movies/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/the-most-successful-hollywood-movies-of-2014/</loc>
+    <lastmod>2015-01-26T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/entropy/</loc>
+    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/sports/</loc>
+    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/unpredictability-of-results-in-one-day-international-cricket-matches/</loc>
+    <lastmod>2015-01-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/posts/decomposing-personal-finance-data/</loc>
+    <lastmod>2015-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/personal-finance/</loc>
+    <lastmod>2015-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/tags/time-series-analysis/</loc>
+    <lastmod>2015-01-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://example.org/series/</loc>
   </url>
 </urlset>
